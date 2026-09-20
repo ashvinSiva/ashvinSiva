@@ -14,8 +14,8 @@ I love participating in events and workshops, and getting to meet new people wit
 
 I’m currently working on an arena allocator in C because I find it more easy and efficient compared to malloc/free.
 
-You can contact me through if you have any questions:
-email: asivakolunthu@outlook.com
+You can contact me through if you have any questions: \
+email: asivakolunthu@outlook.com \
 Linkedin: https://www.linkedin.com/in/ashvin-sivakolunthu/
 
 Fun fact: 
