@@ -2,20 +2,24 @@
 
 I'm Ashvin, and I'm a 2nd year Computer Engineering Student at the University of Ottawa. 
 
-Started learning robotics in a class named Obot'z, where I learned electronics to program Embedded C to build various robots!
+Learned robotics in Obot'z, building from electronics to various robots using Embedded C for 5 years!
 
-I ran my own side hustle where I buy, repair,  and sell iPhones and MacBooks on Facebook Marketplace for 6 months. 
+Ran my own side hustle where I buy, repair, and sell iPhones on Marketplace for 6 months, because I love Apple Products! 
 
-I'm currently practicing C programming, expecting to learn C++ and python, and more robotics such as RTOS and ROS. 
+I'm currently practicing C programming, expecting to learn C++ and python, and more robotics.
 
 My field of interests are embedded systems, firmware, AI/ML, and Quantum Computing.
 
-I love participating in events and workshops to learn new things in technology.   
+I love participating in events and workshops, and getting to meet new people with the same interest, and learn new things in tech.   
 
-I’m currently working on an arena allocator in C because I find it more easy and efficient compared to malloc/free
+I’m currently working on an arena allocator in C because I find it more easy and efficient compared to malloc/free.
 
-⚡ Fun fact: 
-- Trained Karate as Black Belt for 5 1/2 years
+You can contact me through if you have any questions:
+email: asivakolunthu@outlook.com
+Linkedin: https://www.linkedin.com/in/ashvin-sivakolunthu/
+
+Fun fact: 
+- Trained Karate as Black Belt for 5 years
 - I'm a huge Apple fan
 - Home Lab addict
 - Love and curious of Quantum Computing
