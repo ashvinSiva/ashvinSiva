@@ -16,6 +16,7 @@ I’m currently working on an arena allocator in C because I find it more easy a
 
 Fun fact: 
 - Trained Karate as Black Belt for 5 years
+- Grandmaster II in Marvel Rivals
 - I'm a huge Apple fan
 - Home Lab addict
 - Love and curious of Quantum Computing
