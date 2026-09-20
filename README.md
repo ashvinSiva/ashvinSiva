@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Ashvin, and I'm a 2nd year Computer Engineering Student at the University of Ottawa. 
+I'm Ashvin, a 2nd year Computer Engineering Student at uOttawa. 
 
 Learned robotics in Obot'z, building from electronics to various robots using Embedded C for 5 years!
 
