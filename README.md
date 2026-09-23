@@ -12,8 +12,6 @@ My field of interests are embedded systems, firmware, AI/ML, and Quantum Computi
 
 I love participating in events and workshops to meet new people with the same interest and learn new things in tech.   
 
-I’m currently working on an arena allocator in C because I find it more easy and efficient compared to malloc/free.
-
 Fun facts: 
 - Trained Karate as Black Belt for 5 years
 - Grandmaster II in Marvel Rivals
