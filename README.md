@@ -14,7 +14,7 @@ I love participating in events and workshops, and getting to meet new people wit
 
 I’m currently working on an arena allocator in C because I find it more easy and efficient compared to malloc/free.
 
-Fun fact: 
+Fun facts: 
 - Trained Karate as Black Belt for 5 years
 - Grandmaster II in Marvel Rivals
 - I'm a huge Apple fan
