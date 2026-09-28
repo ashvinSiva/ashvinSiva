@@ -15,10 +15,9 @@ I love participating in events and workshops to meet new people with the same in
 Fun facts: 
 - Trained Karate as Black Belt for 5 years
 - Grandmaster II in Marvel Rivals
-- I'm a huge Apple fan
+- Huge Apple fan
 - Home Lab addict
-- Love and curious of Quantum Computing
-- Big fan of Racing 
+- Love Racing 
 - Hobbies: cook, gym, and build new things
 
 Contact me if you have any questions: \
