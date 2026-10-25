@@ -10,7 +10,7 @@ I'm currently practicing C programming, expecting to learn C++ and python, and m
 
 My field of interests are embedded systems, firmware, AI/ML, and Quantum Computing.
 
-I love participating in events and workshops to meet new people with the same interest and learn new things in tech.   
+I love participating in events and workshops to meet new people with the same interests and learn new things in tech.   
 
 Fun facts: 
 - Trained Karate as Black Belt for 5 years
