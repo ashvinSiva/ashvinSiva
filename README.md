@@ -14,7 +14,6 @@ I love participating in events and workshops to meet new people with the same in
 
 Fun facts: 
 - Trained Karate as Black Belt for 5 years
-- Grandmaster II in Marvel Rivals
 - Huge Apple fan
 - Home Lab addict
 - Love Racing 
